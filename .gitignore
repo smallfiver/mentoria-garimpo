@@ -1,0 +1,7 @@
+# Nada de segredo neste repositório — ele é material de mentoria.
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+Thumbs.db
